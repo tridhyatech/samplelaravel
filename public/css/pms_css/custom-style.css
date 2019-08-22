@@ -1,0 +1,19 @@
+.error {
+  color: red; 
+}
+.tooltip { pointer-events: none !important; }
+.tooltip-inner {
+    color: #000;
+    text-align: center;
+    background-color: #f5f5f5;
+}
+table.punch_table{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+table.punch_table tr{
+	border: 1px solid black;
+}
+table.punch_table td{
+	border: 1px solid black;
+}
